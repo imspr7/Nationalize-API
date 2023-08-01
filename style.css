@@ -1,0 +1,44 @@
+.container-fluid{
+    text-align: center;
+    background-color:rgb(105, 88, 255);
+    height: 40%;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    color: black;
+   font-family:"Fugaz One";
+}
+.result{
+    display: none;
+    background-color:rgb(105, 88, 255);
+}
+#btn{
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+#resetbtn{
+    height: 30px;
+    border-radius: 5px;
+    
+}
+#searchtext{
+    display: inline-block;
+    border-radius: 20px;
+}
+
+
+.container{
+    color:black;
+
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+    
+}
+body{
+   
+    background-color:whitesmoke;
+
+}
